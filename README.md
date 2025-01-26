@@ -1,3 +1,3 @@
 # Discoverator
 
-A big mess of files and text
+This repository contains one of the first projects I built on my own using HTML, CSS, JavaScript, and APIs.
